@@ -1,4 +1,6 @@
-(Cursando) Tecnólogo Análise e Desenvolvimento de Sistemas
+## Estudos atuais:
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 HTML / CSS ✅
 JavaScript⏳
