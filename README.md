@@ -13,7 +13,7 @@ SQL 🍃
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Lorran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorranDev&show_icons=true&theme=radical)
+![Lorran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorran-Matheus&show_icons=true&theme=radical)
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
