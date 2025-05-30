@@ -15,6 +15,5 @@ SQL 🍃
 ## 📊 GitHub Stats:
 ![Lorran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorran-Matheus&show_icons=true&theme=radical)
 
-## 🌐 Redes sociais:
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu_usuario)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu_usuario](https://www.linkedin.com/in/lorran-matheus-motta-dos-santos-40626821b/))
