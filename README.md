@@ -2,8 +2,6 @@
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-Estudos:  
-
  HTML / CSS✅ JavaScript⏳   
  React🍃 Angular🍃  
  Bootstrap🍃 Tailwind🍃
