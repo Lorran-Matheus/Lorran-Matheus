@@ -2,11 +2,9 @@
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-HTML / CSS ✅
-JavaScript⏳
-React 🍃
-Node.js 🍃
-SQL 🍃
+Linguagens: HTML / CSS✅ JavaScript⏳   
+Frameworks: React🍃 Angular🍃  
+Bibliotecas: Bootstrap🍃 Tailwind🍃
 
 📧 Contato: lorramatheus940@gmail.com
 ##
