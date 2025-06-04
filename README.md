@@ -3,7 +3,9 @@
 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
  HTML / CSS✅ JavaScript⏳   
+ 
  React🍃 Angular🍃  
+ 
  Bootstrap🍃 Tailwind🍃
 
 📧 Contato: lorramatheus940@gmail.com
