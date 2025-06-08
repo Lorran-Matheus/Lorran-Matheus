@@ -1,25 +1,40 @@
-## Estudos atuais:
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas
+# **Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
- HTML / CSS✅ JavaScript⏳   
+<br>
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lorran-Matheus&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+
+
+> *HTML / CSS 🟩🟩🟩🟩🟨* 
+
+> *JavaScript 🟩🟨⬜⬜⬜*
  
- React🍃 Angular🍃  
+> *React 🟨⬜⬜⬜⬜*
  
- Bootstrap🍃 Tailwind🍃
+> *Angular 🟨⬜⬜⬜⬜*
+ 
+> *Bootstrap 🟨⬜⬜⬜⬜*
+<br>
 
-📧 Contato: lorramatheus940@gmail.com
-##
-## Linguagens
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+📧 **Contato:**
 
-![Lorran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorran-Matheus&show_icons=true&theme=radical)
-
+> **lorramatheus940@gmail.com** 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorran-matheus-motta-dos-santos-40626821b/)
+
+
+## Linguagens
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![Git](https://img.shields.io/badge/Git-7952B3?style=for-the-badge&logo=git&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+
+![Minha estatísticas](https://github-readme-stats.vercel.app/api?username=Lorran-Matheus&show_icons=true&theme=radical)
+
+
