@@ -4,7 +4,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lorran-Matheus&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorran-Matheus&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF) 
 
 
 > *HTML / CSS 🟩🟩🟩🟩🟨* 
