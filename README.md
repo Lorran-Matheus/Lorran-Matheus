@@ -20,7 +20,7 @@
 
 > **lorramatheus940@gmail.com** 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorran-matheus-motta-dos-santos-40626821b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lorran-matheus-motta-dos-santos-40626821b/](https://www.linkedin.com/in/lorran-matheus-40626821b))
 
 
 ## Linguagens
