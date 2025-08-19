@@ -7,7 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorran-Matheus&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF) 
 
 
-> *HTML / CSS 🟩🟩🟩🟩🟨* 
+> *HTML / CSS 🟩🟩🟩🟩🟨*
+ 
+> *Sass / SCSS 🟩🟩🟩🟨⬜* 
 
 > *JavaScript 🟩🟩🟨⬜⬜*
  
@@ -27,6 +29,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2a2c2e&color=2a2c2e)
