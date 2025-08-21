@@ -26,7 +26,7 @@
 
 ## Projetos
 
-*Camply Campaing Manager*
+*Camply Campaing Manager* (em processo)
 > https://lorran-matheus.github.io/PROJETO-CAMPLY/#login-a-index
 
 *Clone HBO Max 2022*
