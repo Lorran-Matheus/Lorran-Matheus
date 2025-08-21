@@ -30,7 +30,7 @@
 > https://lorran-matheus.github.io/PROJETO-CAMPLY/#login-a-index
 
 *Clone HBO Max 2022*
-> https://lorran-matheus.github.io/Clone-HBO-Max-2022/login.html
+> https://lorran-matheus.github.io/Clone-HBO-Max-2022/index.html
 
 #
 ## Linguagens
