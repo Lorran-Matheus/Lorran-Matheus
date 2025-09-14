@@ -26,7 +26,7 @@
 
 ## Projetos
 
-*Portfólio* (em progresso)
+*Portfólio* (em processo)
 > https://lorran-matheus.github.io/portfolio-lorran-matheus
 
 *Camply Campaing Management* (em processo)
