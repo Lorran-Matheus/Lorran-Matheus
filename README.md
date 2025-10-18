@@ -29,6 +29,9 @@
 *Portfólio*
 > https://lorran-matheus.github.io/portfolio-lorran-matheus
 
+*SPA com create-react-app*
+>https://lorran-matheus.github.io/primeiro-spa-react
+
 *Camply Campaing Management* (em processo)
 > https://lorran-matheus.github.io/PROJETO-CAMPLY/#login-a-index
 
