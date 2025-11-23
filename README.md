@@ -29,7 +29,7 @@
 *Portfólio*
 > https://lorran-matheus.github.io/portfolio-lorran-matheus
 
-*SPA com create-react-app*
+*SPA com CRA*
 >https://lorran-matheus.github.io/primeiro-spa-react
 
 *Camply Campaing Management* (em processo)
